@@ -1,0 +1,9 @@
+# See https://ezcv.readthedocs.io for documentation
+name: Michael Grassi
+theme: ethereal
+biography: Howdy! This is an example of how to use ezcv to very quickly create an awesome page on Github.
+avatar: images/michael.jpg
+social:
+  linkedin: michael-g-426543122
+resume: true
+email: michael.grassi@uts.edu.au
